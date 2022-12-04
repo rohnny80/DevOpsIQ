@@ -1,0 +1,4 @@
+
+
+FROM rohnny80/apachetest
+ADD . /var/www/html
